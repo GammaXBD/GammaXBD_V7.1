@@ -1,4 +1,4 @@
-import animation_gamma
+import final
 import backtest_gamma
 import gamma_otc
 import generate_gamma
@@ -9,4 +9,4 @@ quotex_gamma.main()
 backtest_gamma.main()
 gamma_otc.main()
 generate_gamma.main()
-animation_gamma.main()
+final.main()
